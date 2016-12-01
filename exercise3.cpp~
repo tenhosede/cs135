@@ -1,0 +1,17 @@
+//Bruce Powell, lecture section #1003, lab section 1009, exercise 3
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  cout << "BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB" << endl;
+  cout << "Line #2: Name: Bruce Powell" << endl;  
+  cout << "Line #3: Exercise #3" << endl;
+  cout << "Line #4: Lecture Section# 1003" << endl;
+  cout << "Line #5: Lab Section# 1009" << endl;
+  cout << " " << endl;
+  cout << "Line #7: Email: powelb2@unlv.nevada.edu" << endl;
+  cout << "PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP" << endl;
+  return 0;
+}
